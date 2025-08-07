@@ -1,0 +1,7 @@
+git clone https://github.com/tata7772/simple-nft.git
+cd simple-nft
+echo "update" >> update.txt
+git add .
+git commit -m "Update 1"
+# Повтори 10 раз (или используй цикл, как выше)
+git push origin main
